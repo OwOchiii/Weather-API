@@ -5,4 +5,4 @@ So this is just a practice project for the roadmap.sh. Anyway for some fast intr
 
 So while this is something I do as quick as possible, I will refer the doc for you to read and config it as you want: https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api
 
-Dunno who going to read this since I will publish the solution on roadmap.sh anyway. If you read it, have a nice day
+Dunno who going to read this since I will publish the solution (Link of the practice project: https://roadmap.sh/projects/weather-api-wrapper-service) on roadmap.sh anyway. If you read it, have a nice day
